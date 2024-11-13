@@ -1,0 +1,1 @@
+Hello my name is name nader and i like to code for my homework. I enjoy playing soccer and hanging out with friends. I am a senior student at Baruch College majoring in Computer Information Systems.
