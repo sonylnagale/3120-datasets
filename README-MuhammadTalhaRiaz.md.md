@@ -1,2 +1,0 @@
-This directory contains various datasets used for assignments and analysis in the 3120 course. The datasets cover a range of topics and are intended to help students practice data handling, analysis, and visualization skills. 
-Author: Muhammad Talha Riaz
